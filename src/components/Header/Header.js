@@ -56,7 +56,7 @@ const ListWrapper = styled.ul`
 `;
 
 const SideWrapper = styled.div`
-  flex: 1 1 370px;
+  flex: 1;
   display: flex;
   align-items: center;
   font-weight: 700;
